@@ -1,14 +1,24 @@
 ![Header](https://github.com/quartix17/quartix17/blob/main/assets/tux-linux-tux.gif)
 
+
 ## I'm beginner system programmer
 
+
+
+<div align="center">
 Languages and Tools:
 
-![My Skills](https://skillicons.dev/icons?i=debian,bash,c,cpp)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/-bash-black?style=for-the-badge&logo=bash&logoColor=white)
+![C](https://img.shields.io/badge/-black?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 
 
-Follow Me
+</div>
+
+
 <div align="center">
+Follow Me 
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/quartix17)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-kshevetskyi-78395a328)
