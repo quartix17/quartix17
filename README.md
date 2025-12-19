@@ -1,4 +1,4 @@
-![Header](https://github.com/quartix17/quartix17/blob/main/assets/tux-linux-tux-linux-linux-penguing-linux-coding-gif-7933003135340137862)
+![Header](https://github.com/quartix17/quartix17/blob/main/assets/tux-linux-tux.gif)
 
 About me
 
