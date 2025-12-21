@@ -1,4 +1,4 @@
-![Header](https://github.com/quartix17/quartix17/blob/main/assets/tux-linux-tux.gif)
+![Header](https://github.com/quartix17/quartix17/blob/main/assets/lain.gif)
 
 
 ## I'm beginner system programmer
