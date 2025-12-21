@@ -1,11 +1,10 @@
+<div align="center">
+
 ![Header](https://github.com/quartix17/quartix17/blob/main/assets/lain.gif)
 
 
 ## I'm beginner system programmer
-f
 
-
-<div align="center">
 Languages and Tools:
 
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white)
